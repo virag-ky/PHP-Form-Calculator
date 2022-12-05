@@ -52,3 +52,15 @@ p {
   font-weight: 700;
   margin-top: 200px;
 }
+
+@media (max-width: 600px) {
+  body {
+    padding-bottom: 20px;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+}
