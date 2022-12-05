@@ -9,4 +9,4 @@
 
 ## Demo
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/79658534/205691375-7f97fe3a-3de8-40e9-ad3f-9d84180a29c1.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/79658534/205696863-46e540b5-b8a9-4998-8c9a-bbfd3c587c20.gif)
