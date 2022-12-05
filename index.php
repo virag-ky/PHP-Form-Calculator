@@ -32,5 +32,6 @@
     <input type="number" name="divisor" id="divisor" required>
     <input type="submit" value="Submit">
   </form>
+  <a href="index.php">Reset</a>
 </body>
 </html>
