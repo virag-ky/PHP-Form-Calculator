@@ -5,9 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>PHP Form Calculator</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>PHP Form Calculator</h1>
+  <div>
   <form action="addition.php" method="get">
     <h2>Addition</h2>
     <input type="number" name="add_num1" id="add_num1" required>
@@ -33,5 +35,6 @@
     <input type="submit" value="Submit">
   </form>
   <a href="index.php">Reset</a>
+  </div>
 </body>
 </html>
